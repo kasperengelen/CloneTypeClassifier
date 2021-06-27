@@ -2,7 +2,7 @@
 
 ### Introduction
 
-In this repository you will find a paper, titled "Automated Clone Validation and Classification", as well as the code that was used during the experiments for the paper. This paper was written as part of the course "Research Project 1" in the first semester of the 2020-2021 academic year.
+In this repository you will find a [paper](../main/automatic_clone_validation_classification.pdf), titled "Automated Clone Validation and Classification", as well as the code that was used during the experiments for the paper. This paper was written as part of the course "Research Project 1" in the first semester of the 2020-2021 academic year.
 
 The goal for this research project was finding a way to automatically classify a pair of methods into one of four classes: Type-1, Type-2, Type-3, or False Positive. Precision and recall of such automatic classification varies between 50% and 80%. These types are defined based on the syntactic similarity of the two methods:
 - Type-1: The program text is identical, except for differences in comments, whitespace, or new-lines.
